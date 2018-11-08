@@ -2,8 +2,8 @@
 Creating a class and assuring code integrity using python's unitest class
 ##### Features
 
-- Creating a class Employee with varibles as name, last name and salary
 - Testing the code using python's unit-test class 
+- Creating a class Employee with varibles as name, last name and salary
 - Using unittest.mock for checking code integrity with no depandency on network connection
 
 ## Getting Started
